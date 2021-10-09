@@ -1,0 +1,7 @@
+package noFactory.br.edu.univas.vo;
+
+public interface AnimalKind {
+
+	void move();
+	
+}
